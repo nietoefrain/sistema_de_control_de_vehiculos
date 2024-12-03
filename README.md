@@ -15,10 +15,15 @@ Este sistema permite registrar y gestionar información de diversos vehículos, 
 
 ## Características ✨
 
-- **Gestión de vehículos:** Registro de datos de diferentes tipos de vehículos.
-- **Herencia múltiple:** Uso de herencia para compartir y especializar comportamientos entre clases de vehículos.
-- **Persistencia de datos:** Almacenamiento y recuperación de información de vehículos desde archivos CSV.
-- **Interfaz de usuario:** Menús interactivos para facilitar la navegación y operación del sistema.
+- **Gestión de Vehículos:** Registro de datos de diferentes tipos de vehículos.
+- **Herencia Múltiple:** Uso de herencia para compartir y especializar comportamientos entre clases de vehículos.
+- **Persistencia de Datos:** Almacenamiento y recuperación de información de vehículos desde archivos CSV.
+- **Interfaz de Usuario:** Menús interactivos para facilitar la navegación y operación del sistema.
+- **Diagrama de Clases:** se adjunta el diagrama de clases que representa la estructura del sistema para gestionar vehículos, aplicando herencia, polimorfismo y manejo de datos con archivos CSV en Python.
+
+
+![Sistema Control de Vehiculos](https://github.com/user-attachments/assets/c21053c5-38e5-411c-baa0-c4909963369e)
+
 
 ## Instalación 🛠️
 
